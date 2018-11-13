@@ -6,4 +6,4 @@ Make sure to edit the skeleton batch file to place correct location of Python an
 
 All contents downloaded from SoundCloud must be approved by the original content creator first!
 
-[[https://imgur.com/spissW4|alt=screenshotinuse]]
+![screenshot](https://i.imgur.com/spissW4.png "screenshot in use") 
