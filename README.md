@@ -6,4 +6,4 @@ Make sure to edit the skeleton batch file to place correct location of Python an
 
 All contents downloaded from SoundCloud must be approved by the original content creator first!
 
-![screenshot example of soundcloud-dl-app in use](https://imgur.com/spissW4)
+[[https://imgur.com/spissW4|alt=screenshotinuse]]
